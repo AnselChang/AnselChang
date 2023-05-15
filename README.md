@@ -1,12 +1,9 @@
-<h2> Hey there! I'm Ansel Kadoya.</h2>
+<h2> Hey there! I'm Ansel Chang.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A robotics engineer based in Worcester, MA.
-- 🎓 &nbsp; A student at [Worcester Polytechnic Institute](https://www.wpi.edu), pursuing a bachelors and a master in Robotics.
-- 🤗 &nbsp; I enjoy making robots more delightful to interact with. 
-- 🌱 &nbsp; Learning more about CAD, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and video production as hobbies.
+- 🎓 &nbsp; A student at student at [Worcester Polytechnic Institute](https://www.wpi.edu) majoring in Computer Science
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -39,7 +36,6 @@
 
 <a href="https://github.com/AnselChang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnselChang&theme=buefy&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnselChang&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 <br/>
