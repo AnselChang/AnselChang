@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Kohmei Kadoya.</h2>
+<h2> Hey there! I'm Ansel Kadoya.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -37,7 +37,7 @@
 
 <br/>
 
-<a href="https://github.com/Kohmei358">
+<a href="https://github.com/AnselChang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kohmei358&theme=buefy&show_icons=true&count_private=true" />
 </a>
 
