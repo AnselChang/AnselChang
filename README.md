@@ -39,6 +39,7 @@
 
 <a href="https://github.com/AnselChang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnselChang&theme=buefy&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnselChang&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 <br/>
