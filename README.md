@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Ansel Chang.</h2>
 
+THIS IS WRONG I COPY PASTED I GOTTA UPDATE
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; A student at student at [Worcester Polytechnic Institute](https://www.wpi.edu) majoring in Computer Science
